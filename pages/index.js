@@ -28,7 +28,7 @@ const Page = () => {
           mt={24}
           align="center"
         >
-          Hello, 起点工作室
+          Hello, Welcome to Stars
         </Box>
       </Container>
     </Layout>
